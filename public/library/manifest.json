@@ -1,0 +1,562 @@
+[
+  {
+    "id": "book",
+    "canonicalId": "book",
+    "name": "Книга",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "книга",
+      "знание",
+      "идея"
+    ],
+    "viewBox": "0 0 1446 977",
+    "url": "/library/book.svg"
+  },
+  {
+    "id": "book-echo",
+    "canonicalId": "book",
+    "name": "Книга",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "книга",
+      "знание",
+      "идея"
+    ],
+    "viewBox": "0 0 1446 977",
+    "url": "/library/book-echo.svg"
+  },
+  {
+    "id": "book-s",
+    "canonicalId": "book",
+    "name": "Книга",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "книга",
+      "знание",
+      "идея"
+    ],
+    "viewBox": "0 0 723 489",
+    "url": "/library/book-s.svg"
+  },
+  {
+    "id": "book-s-echo",
+    "canonicalId": "book",
+    "name": "Книга",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "книга",
+      "знание",
+      "идея"
+    ],
+    "viewBox": "0 0 723 489",
+    "url": "/library/book-s-echo.svg"
+  },
+  {
+    "id": "phone",
+    "canonicalId": "phone",
+    "name": "Телефон",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "телефон",
+      "связь",
+      "технологии"
+    ],
+    "viewBox": "0 0 797 462",
+    "url": "/library/phone.svg"
+  },
+  {
+    "id": "phone-echo",
+    "canonicalId": "phone",
+    "name": "Телефон",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "телефон",
+      "связь",
+      "технологии"
+    ],
+    "viewBox": "0 0 797 462",
+    "url": "/library/phone-echo.svg"
+  },
+  {
+    "id": "phone-s",
+    "canonicalId": "phone",
+    "name": "Телефон",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "телефон",
+      "связь",
+      "технологии"
+    ],
+    "viewBox": "0 0 399 231",
+    "url": "/library/phone-s.svg"
+  },
+  {
+    "id": "phone-s-echo",
+    "canonicalId": "phone",
+    "name": "Телефон",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "телефон",
+      "связь",
+      "технологии"
+    ],
+    "viewBox": "0 0 399 231",
+    "url": "/library/phone-s-echo.svg"
+  },
+  {
+    "id": "puzzle",
+    "canonicalId": "puzzle",
+    "name": "Пазлы",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "пазл",
+      "связь",
+      "решение"
+    ],
+    "viewBox": "0 0 545 314",
+    "url": "/library/puzzle.svg"
+  },
+  {
+    "id": "puzzle-echo",
+    "canonicalId": "puzzle",
+    "name": "Пазлы",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "пазл",
+      "связь",
+      "решение"
+    ],
+    "viewBox": "0 0 545 314",
+    "url": "/library/puzzle-echo.svg"
+  },
+  {
+    "id": "puzzle-s",
+    "canonicalId": "puzzle",
+    "name": "Пазлы",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "пазл",
+      "связь",
+      "решение"
+    ],
+    "viewBox": "0 0 273 157",
+    "url": "/library/puzzle-s.svg"
+  },
+  {
+    "id": "puzzle-s-echo",
+    "canonicalId": "puzzle",
+    "name": "Пазлы",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "пазл",
+      "связь",
+      "решение"
+    ],
+    "viewBox": "0 0 273 157",
+    "url": "/library/puzzle-s-echo.svg"
+  },
+  {
+    "id": "coin",
+    "canonicalId": "coin",
+    "name": "Монета",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "монета",
+      "деньги",
+      "ценность"
+    ],
+    "viewBox": "0 0 287 189",
+    "url": "/library/coin.svg"
+  },
+  {
+    "id": "coin-echo",
+    "canonicalId": "coin",
+    "name": "Монета",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "монета",
+      "деньги",
+      "ценность"
+    ],
+    "viewBox": "0 0 287 189",
+    "url": "/library/coin-echo.svg"
+  },
+  {
+    "id": "coin-s",
+    "canonicalId": "coin",
+    "name": "Монета",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "монета",
+      "деньги",
+      "ценность"
+    ],
+    "viewBox": "0 0 153 101",
+    "url": "/library/coin-s.svg"
+  },
+  {
+    "id": "coin-s-echo",
+    "canonicalId": "coin",
+    "name": "Монета",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "монета",
+      "деньги",
+      "ценность"
+    ],
+    "viewBox": "0 0 153 101",
+    "url": "/library/coin-s-echo.svg"
+  },
+  {
+    "id": "headphones",
+    "canonicalId": "headphones",
+    "name": "Наушники",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "наушники",
+      "музыка",
+      "концентрация"
+    ],
+    "viewBox": "0 0 889 692",
+    "url": "/library/headphones.svg"
+  },
+  {
+    "id": "headphones-echo",
+    "canonicalId": "headphones",
+    "name": "Наушники",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "наушники",
+      "музыка",
+      "концентрация"
+    ],
+    "viewBox": "0 0 889 692",
+    "url": "/library/headphones-echo.svg"
+  },
+  {
+    "id": "headphones-s",
+    "canonicalId": "headphones",
+    "name": "Наушники",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "наушники",
+      "музыка",
+      "концентрация"
+    ],
+    "viewBox": "0 0 445 346",
+    "url": "/library/headphones-s.svg"
+  },
+  {
+    "id": "headphones-s-echo",
+    "canonicalId": "headphones",
+    "name": "Наушники",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "наушники",
+      "музыка",
+      "концентрация"
+    ],
+    "viewBox": "0 0 445 346",
+    "url": "/library/headphones-s-echo.svg"
+  },
+  {
+    "id": "lamp",
+    "canonicalId": "lamp",
+    "name": "Лампа",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "лампа",
+      "свет",
+      "идея"
+    ],
+    "viewBox": "0 0 946 1129",
+    "url": "/library/lamp.svg"
+  },
+  {
+    "id": "lamp-echo",
+    "canonicalId": "lamp",
+    "name": "Лампа",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "лампа",
+      "свет",
+      "идея"
+    ],
+    "viewBox": "0 0 946 1129",
+    "url": "/library/lamp-echo.svg"
+  },
+  {
+    "id": "lamp-s",
+    "canonicalId": "lamp",
+    "name": "Лампа",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "лампа",
+      "свет",
+      "идея"
+    ],
+    "viewBox": "0 0 473 565",
+    "url": "/library/lamp-s.svg"
+  },
+  {
+    "id": "lamp-s-echo",
+    "canonicalId": "lamp",
+    "name": "Лампа",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "лампа",
+      "свет",
+      "идея"
+    ],
+    "viewBox": "0 0 473 565",
+    "url": "/library/lamp-s-echo.svg"
+  },
+  {
+    "id": "flowers",
+    "canonicalId": "flowers",
+    "name": "Цветы",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "цветы",
+      "забота",
+      "рост"
+    ],
+    "viewBox": "0 0 591 748",
+    "url": "/library/flowers.svg"
+  },
+  {
+    "id": "flowers-echo",
+    "canonicalId": "flowers",
+    "name": "Цветы",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "цветы",
+      "забота",
+      "рост"
+    ],
+    "viewBox": "0 0 591 748",
+    "url": "/library/flowers-echo.svg"
+  },
+  {
+    "id": "flowers-s",
+    "canonicalId": "flowers",
+    "name": "Цветы",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "цветы",
+      "забота",
+      "рост"
+    ],
+    "viewBox": "0 0 324 409",
+    "url": "/library/flowers-s.svg"
+  },
+  {
+    "id": "flowers-s-echo",
+    "canonicalId": "flowers",
+    "name": "Цветы",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "цветы",
+      "забота",
+      "рост"
+    ],
+    "viewBox": "0 0 324 409",
+    "url": "/library/flowers-s-echo.svg"
+  },
+  {
+    "id": "wallet",
+    "canonicalId": "wallet",
+    "name": "Кошелёк",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "кошелёк",
+      "деньги",
+      "ценность"
+    ],
+    "viewBox": "0 0 631 397",
+    "url": "/library/wallet.svg"
+  },
+  {
+    "id": "wallet-echo",
+    "canonicalId": "wallet",
+    "name": "Кошелёк",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "кошелёк",
+      "деньги",
+      "ценность"
+    ],
+    "viewBox": "0 0 631 397",
+    "url": "/library/wallet-echo.svg"
+  },
+  {
+    "id": "wallet-s",
+    "canonicalId": "wallet",
+    "name": "Кошелёк",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "кошелёк",
+      "деньги",
+      "ценность"
+    ],
+    "viewBox": "0 0 316 199",
+    "url": "/library/wallet-s.svg"
+  },
+  {
+    "id": "wallet-s-echo",
+    "canonicalId": "wallet",
+    "name": "Кошелёк",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "кошелёк",
+      "деньги",
+      "ценность"
+    ],
+    "viewBox": "0 0 316 199",
+    "url": "/library/wallet-s-echo.svg"
+  },
+  {
+    "id": "folder",
+    "canonicalId": "folder",
+    "name": "Папка",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "папка",
+      "работа",
+      "порядок"
+    ],
+    "viewBox": "0 0 1241 659",
+    "url": "/library/folder.svg"
+  },
+  {
+    "id": "folder-echo",
+    "canonicalId": "folder",
+    "name": "Папка",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "папка",
+      "работа",
+      "порядок"
+    ],
+    "viewBox": "0 0 1241 659",
+    "url": "/library/folder-echo.svg"
+  },
+  {
+    "id": "folder-s",
+    "canonicalId": "folder",
+    "name": "Папка",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "папка",
+      "работа",
+      "порядок"
+    ],
+    "viewBox": "0 0 621 330",
+    "url": "/library/folder-s.svg"
+  },
+  {
+    "id": "folder-s-echo",
+    "canonicalId": "folder",
+    "name": "Папка",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "папка",
+      "работа",
+      "порядок"
+    ],
+    "viewBox": "0 0 621 330",
+    "url": "/library/folder-s-echo.svg"
+  },
+  {
+    "id": "pen",
+    "canonicalId": "pen",
+    "name": "Ручка",
+    "role": "main",
+    "detail": "rich",
+    "tags": [
+      "ручка",
+      "идея",
+      "работа"
+    ],
+    "viewBox": "0 0 509 286",
+    "url": "/library/pen.svg"
+  },
+  {
+    "id": "pen-echo",
+    "canonicalId": "pen",
+    "name": "Ручка",
+    "role": "background",
+    "detail": "rich",
+    "tags": [
+      "ручка",
+      "идея",
+      "работа"
+    ],
+    "viewBox": "0 0 509 286",
+    "url": "/library/pen-echo.svg"
+  },
+  {
+    "id": "pen-s",
+    "canonicalId": "pen",
+    "name": "Ручка",
+    "role": "main",
+    "detail": "minimal",
+    "tags": [
+      "ручка",
+      "идея",
+      "работа"
+    ],
+    "viewBox": "0 0 255 143",
+    "url": "/library/pen-s.svg"
+  },
+  {
+    "id": "pen-s-echo",
+    "canonicalId": "pen",
+    "name": "Ручка",
+    "role": "background",
+    "detail": "minimal",
+    "tags": [
+      "ручка",
+      "идея",
+      "работа"
+    ],
+    "viewBox": "0 0 255 143",
+    "url": "/library/pen-s-echo.svg"
+  }
+]
